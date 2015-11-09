@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.6711636
+color:
+  lightness: 0.2403035
+  brandStrength: 0.5927488
+  saturation: 0.3397976
+  rhythmicContrast: 0.970489
+  brandColors:
+    - '#000000'
+    - '#F2F2F2'
+    - '#808080'
+    - '#404040'
+    - '#64FD01'
+name: Black Sheep Fitness
